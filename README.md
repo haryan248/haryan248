@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🛠 Tech Stacks
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logoColor=white"/>
+<span>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue&logoColor=white"/>
+</span>
