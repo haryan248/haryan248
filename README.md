@@ -24,11 +24,21 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>   
 
-* language used: <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+* language used : <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
-* Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
-* Server : <span><img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></span>
+
+* Back-end : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></span>
+
+* Server : <span><img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></span>
+
+* Communication : <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></span>
+
 
 [![haryan248's github stats](https://github-readme-stats.vercel.app/api?username=haryan248)](https://github.com/haryan248/github-readme-stats)
