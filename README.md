@@ -4,6 +4,7 @@
 **haryan248/haryan248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logoColor=white"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
