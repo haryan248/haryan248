@@ -40,5 +40,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></span>
 
+* Design : <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
+
 
 [![haryan248's github stats](https://github-readme-stats.vercel.app/api?username=haryan248)](https://github.com/haryan248/github-readme-stats)
