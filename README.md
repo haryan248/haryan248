@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 
 [![haryan248's github stats](https://github-readme-stats.vercel.app/api?username=haryan248)](https://github.com/haryan248/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haryan96)](https://solved.ac/haryan96/)
 
 
 ### Portfolio Website
