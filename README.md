@@ -43,10 +43,12 @@ Here are some ideas to get you started:
 * Design : <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
 
 
-[![haryan248's github stats](https://github-readme-stats.vercel.app/api?username=haryan248)](https://github.com/haryan248/github-readme-stats)
-<br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haryan96)](https://solved.ac/haryan96/)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haryan248&&show_icons=true&theme=vue-dark"/>
+</p>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haryan96"/>
+</p>
 
 ### Portfolio Website
 
