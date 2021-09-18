@@ -1,4 +1,7 @@
-### FrontEnd Developer Ha Hyun Joon 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyun%20Joon's%20GitHub&fontSize=30)
+
+### I am Front-End Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+
 
 <!--
 **haryan248/haryan248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharyan248%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Portfolio Website
+### 🎨 Portfolio Website
 [https://haryan248.github.io/hyun_joon_portfolio/](https://haryan248.github.io/hyun_joon_portfolio/)
 
 ### 🛠 Tech Stacks
@@ -46,11 +49,33 @@ Here are some ideas to get you started:
 
 * Design : <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haryan248&&show_icons=true&theme=vue-dark"/>
-</p>
+<details>
+<summary>🤷‍♂️ <b>BaekJoon Stats: </b></summary>
+  <br>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haryan96"/>
 </p>
+</details>
+
+<details>
+<summary>&#128293; <b>Github Streaks: </b></summary>
+  <br>
+<p align = "center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=haryan248&hide_border=true&theme=vue-dark" />  
+</p>
+</details>
+
+<details>
+<summary>📚 <b>Github Stats: </b></summary>
+<br>
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haryan248&&show_icons=true&theme=vue-dark&line_height=27"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haryan248&theme=vue-dark&langs_count=3">
+</p>
+</details>
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
