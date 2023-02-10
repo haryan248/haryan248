@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyun%20Joon's%20GitHub&fontSize=30)
-
-### I am Front-End Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I%20am%20Front-End%20Developer&descAlign=70.&descAlignY=44)
 
 
 <!--
@@ -18,11 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharyan248%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 🎨 Portfolio Website <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-### 🎨 Portfolio Website
-[https://haryan248.github.io/hyun_joon_portfolio/](https://haryan248.github.io/hyun_joon_portfolio/)
-
+[https://haryan248.github.io/hyun_joon_portfolio/](https://haryan248.github.io/hyun_joon_portfolio/) <span>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharyan248%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</span>
 ### 🛠 Tech Stacks
 * Front-end : 
   - FrameWork: <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
@@ -83,9 +79,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haryan248&theme=vue-dark&langs_count=3">
 </p>
 </details>
-
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
-
