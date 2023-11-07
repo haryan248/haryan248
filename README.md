@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=I%20am%20Front-End%20Developer&descAlign=70.&descAlignY=44)
-
+## 끄적이는 개발자 하현준입니다.
+> 지금은 회사에서 게임 홈페이지 개발을 담당으로 React, Vue, Vanilla.js 등 프레임워크에 상관없이 개발하고 있습니다!<br/>
+> 모든지 일단 끄적이다 보면 해결할 수 있다고 생각합니다.
 
 <!--
 **haryan248/haryan248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
