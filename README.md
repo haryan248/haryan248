@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 ### 🎨 Portfolio Website <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
 [https://haryan248.github.io/hyun_joon_portfolio/](https://haryan248.github.io/hyun_joon_portfolio/) <span>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharyan248%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</span>
+
+### 📖 Resume
+[이력서](https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80)
+
 ### 🛠 Tech Stacks
 * Front-end : 
   - FrameWork: <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
