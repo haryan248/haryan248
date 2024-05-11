@@ -1,6 +1,7 @@
 ## 안녕하세요.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 프론트엔드 개발자 하현준입니다.
-> '게임' 도메인을 한 회사에서 React, Vue, Vanilla.js 등 __어떤 프레임워크 던지 상관없이__ 게이머들을 위한 페이지들을 개발하고 있습니다!<br/>
-> 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.
+> '금용' 도메인의 서비스 회사에서 흥미롭고 새로운 프로덕트를 웹뷰로 제공해주고 있어요.<br/>
+> `React`, `Next.js`를 사용해서 FE 서비스를 배포하고, 네이티브에서 필요한 기능은 jsapi를 통해 사용자에게 쉽게 접근해요.<br/>
+> 새로운 환경에서 빠르게 적응할 수 있고, 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.
 
 <!--
 **haryan248/haryan248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 - [이력서](https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80)
 
 ### 🛠 Tech Stacks
-* FrontEnd :
+* Frontend Skills :
   - Programming Language: <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
   - Framework: <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
@@ -40,16 +41,16 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></span>
 
-* Server : <span><img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
+* DevOps : <span><img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></span>
 
-* Communication : <span><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></span>
+* Communication Tools : <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></span>
 
-* Design : <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
+* Design Tools : <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
 
 * Once I used : <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
