@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - [Notion Portfolio (Latest)](https://haryan.notion.site/haryan/6f128576511a4f698bc6db2e93bf4539)<br/>
 - [Portfolio WebSite (Made in 2021)](https://haryan248.github.io/hyun_joon_portfolio/) 
 
-### 📖 Resume
+### 📖 Résumé
 - [이력서](https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80)
 
 ### 🛠 Tech Stacks
