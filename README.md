@@ -75,6 +75,6 @@
 </details>
 
 <details>
-<summary>📚 <b>Portfolio Website (deprecated): </b></summary>
+<summary>🎨 <b>Portfolio Website (deprecated): </b></summary>
   <a href="https://haryan248.github.io/hyun_joon_portfolio/">포트폴리오 보러가기👉</a>
 </details>
