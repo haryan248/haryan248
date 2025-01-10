@@ -2,31 +2,38 @@
   <h1 align="center">안녕하세요.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 프론트엔드 개발자 하현준입니다</h1>
 </p>
 
+<br/>
+
 <p align="center">
-'금융' 도메인의 서비스 회사에서 흥미롭고 새로운 프로덕트를 웹뷰 환경에서 개발하고 있어요.<br/> `React`, `Next.js`를 사용해서 FE 서비스를 배포하고, 네이티브에서 필요한 기능은 jsapi를 통해 사용자에게 편리한 서비스를 제공해줘요.<br/><br/>
-새로운 환경에서 빠르게 적응하는 장점을 가지고 있고, 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.<br/>
-그래도 해결하지 못한 과제는 팀원들과 공유하고 함께 이겨내려고 해요.
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./introduce.svg">
+      <img src="./introduce.svg">
+    </picture>
 </p>
 
 <br />
 
 <p align=center>
-  <a href="https://haryan.notion.site/haryan/6f128576511a4f698bc6db2e93bf4539">
-    <img src="./portfolio.svg#gh-light-mode-only">
-    <img src="./portfolio.svg#gh-dark-mode-only">
+    <a href="https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80">
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./resume_dark.svg">
+      <img src="./resume.svg">
+    </picture>
   </a>
   <br/>
   <br/>
-  <a href="https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80">
-    <img src="./resume.svg#gh-light-mode-only">
-    <img src="./resume.svg#gh-dark-mode-only">
+  <a href="https://haryan.notion.site/haryan/6f128576511a4f698bc6db2e93bf4539">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./portfolio_dark.svg">
+      <img src="./portfolio.svg">
+    </picture>
   </a>
 </p>
 
 <br />
 
 <p>
-  <h3 align="center">Tech Stacks 🛠</h3>
+  <h2 align="center">Tech Stacks 🛠</h2>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +44,7 @@
 <br />
 
 <p>
-  <h3 align="center">Velog ✍️</h3>
+  <h2 align="center">Velog ✍️</h2>
 </p>
 
 <p align="center">
@@ -67,6 +74,6 @@
 </details>
 
 <details>
-<summary>📚 <b>Portfolio WebSite (Made in 2021): </b></summary>
+<summary>📚 <b>Portfolio Website (deprecated): </b></summary>
   <a href="https://haryan248.github.io/hyun_joon_portfolio/">포트폴리오 보러가기👉</a>
 </details>
