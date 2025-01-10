@@ -7,7 +7,7 @@
 <p align="center">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./introduce_dark.svg">
-      <img src="./introduce.svg">
+      <img width="80%" src="./introduce.svg">
     </picture>
 </p>
 
