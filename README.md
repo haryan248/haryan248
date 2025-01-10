@@ -5,13 +5,13 @@
 <br/>
 
 <p align="center">
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./introduce.svg">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./introduce_dark.svg">
       <img src="./introduce.svg">
     </picture>
 </p>
 
-<br />
+<br/>
 
 <p align=center>
     <a href="https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80">
@@ -20,6 +20,7 @@
       <img src="./resume.svg">
     </picture>
   </a>
+  <br/>
   <br/>
   <br/>
   <a href="https://haryan.notion.site/haryan/6f128576511a4f698bc6db2e93bf4539">
