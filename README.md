@@ -1,29 +1,23 @@
 ## 안녕하세요.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 프론트엔드 개발자 하현준입니다.
-> __'금융'__ 도메인의 서비스 회사에서 흥미롭고 새로운 프로덕트를 웹뷰 환경에서 개발하고 있어요.<br/>
-> `React`, `Next.js`를 사용해서 FE 서비스를 배포하고, 네이티브에서 필요한 기능은 jsapi를 통해 사용자에게 편리한 서비스를 제공해줘요.<br/><br/>
+
+> **'금융'** 도메인의 서비스 회사에서 흥미롭고 새로운 프로덕트를 웹뷰 환경에서 개발하고 있어요.<br/> > `React`, `Next.js`를 사용해서 FE 서비스를 배포하고, 네이티브에서 필요한 기능은 jsapi를 통해 사용자에게 편리한 서비스를 제공해줘요.<br/><br/>
 > 새로운 환경에서 빠르게 적응하는 장점을 가지고 있고, 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.<br/>
 > 그래도 해결하지 못한 과제는 팀원들과 공유하고 함께 이겨내려고 해요.
 
-<p>
-  <h2>🎨 Portfolio</h2>
-</p>
-
-- [Notion Portfolio (Latest)](https://haryan.notion.site/haryan/6f128576511a4f698bc6db2e93bf4539)<br/>
-- [Portfolio WebSite (Made in 2021)](https://haryan248.github.io/hyun_joon_portfolio/) 
-
 <br />
 
-<p>
-  <h2>📖 Résumé</h2>
+<p align="center">
+  <a href="https://haryan.notion.site/haryan/6f128576511a4f698bc6db2e93bf4539">
+    <img src="./portfolio.png">
+  </a>
+  <br/>
+  <a href="https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80">
+    <img src="./resume.png">
+  </a>
 </p>
 
-- [이력서](https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80)
-
-
-<br />
-
-<p>
-  <h2>🛠 Tech Stacks</h2>
+<p align="center">
+  <h3>🛠 Tech Stacks</h3>
 </p>
 <p>
   <a href="https://skillicons.dev">
@@ -54,7 +48,7 @@
 </p>
 </details>
 
-
-
-
-
+<details>
+<summary>📚 <b>Portfolio WebSite (Made in 2021): </b></summary>
+  <a href="https://haryan248.github.io/hyun_joon_portfolio/">포트폴리오 보러가기👉</a>
+</details>
