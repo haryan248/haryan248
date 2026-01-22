@@ -49,20 +49,20 @@
 </p>
 
 <p align="center">
-    <a href="https://velog.io/@haryan248">
-      <img src="https://velog-readme-stats.vercel.app/api/badge?name=haryan248" />
-    </a>
-  <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharyan248%2Fhit-counter&count_bg=%2361DBFB&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <a href="https://velog.io/@haryan248">
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=haryan248" />
   </a>
 </p>
-
+  <a href="https://velog.io/@haryan248">
+   <img src="https://velog-dashboard.kro.kr/badge?username=haryan248&type=default&assets=views,likes,posts"/>
+  </a>
 <p align="center">
   <a href="https://velog.io/@haryan248">
     <img height="130px" src="https://velog-readme-stats.vercel.app/api?name=haryan248&color=dark" />
     <img height="130px" src="https://velog-readme-stats.vercel.app/api/list?name=haryan248&color=dark" />
   </a>
-</div>
+</p>
+
 
 <hr />
 <details>
