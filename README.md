@@ -45,24 +45,24 @@
 <br />
 
 <p>
-  <h2 align="center">Velog ✍️</h2>
+  <h2 align="center">  
+    <span> Velog ✍️ </span>
+    <a href="https://velog.io/@haryan248">
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=haryan248" />
+  </a>
+  </h2>
 </p>
 
 <p align="center">
-  <a href="https://velog.io/@haryan248">
-    <img src="https://velog-readme-stats.vercel.app/api/badge?name=haryan248" />
-  </a>
+  <img height="130px" src="https://github.com/user-attachments/assets/59c7b03b-ac35-477d-b439-48b44735e3fe"/>
 </p>
-  <a href="https://velog.io/@haryan248">
-   <img src="https://velog-dashboard.kro.kr/badge?username=haryan248&type=default&assets=views,likes,posts"/>
-  </a>
+
 <p align="center">
   <a href="https://velog.io/@haryan248">
     <img height="130px" src="https://velog-readme-stats.vercel.app/api?name=haryan248&color=dark" />
     <img height="130px" src="https://velog-readme-stats.vercel.app/api/list?name=haryan248&color=dark" />
   </a>
 </p>
-
 
 <hr />
 <details>
